@@ -1,0 +1,7 @@
+TicTac is a small Bash script for GNU/Linux used as a cooking timer.
+
+Example :
+    $> tictac pastas # will remind you 9 minutes later
+
+
+You can add all cooking times you want in the config file.
